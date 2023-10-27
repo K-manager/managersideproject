@@ -22,6 +22,8 @@ public class arrays {
 	   }
 	   System.out.println(sum2);
 	   System.out.println(sum2-sum1);
+            System.out.println(sum2*sum1);
+            System.out.println(sum2/sum1);
 		
 	}
 
