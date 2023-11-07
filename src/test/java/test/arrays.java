@@ -14,7 +14,7 @@ public class arrays {
 		{
 			sum1=sum1+a[i];
 		}
-		System.out.println(sum);
+		System.out.println(sum1);
 		
 	   for(int i=7;i>=1;i--)
 	   {
